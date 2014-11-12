@@ -39,7 +39,8 @@ Please fork this repository and submit pull requests if you would like to contri
 
 ### Author
 
-Benjamin Dean @bdeanindy
+Message Systems, LLC
+    Benjamin Dean @bdeanindy
 
 ### License
 MIT
