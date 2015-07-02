@@ -1,7 +1,7 @@
 BASH-Import-Script
 ==================
 
-BASH script to import a CSV and convert it to a Recipient List and delivery a Transmission with SparkPost.
+BASH script to import a CSV and convert it to a Recipient List and deliver a Transmission to the respective recipients using a Template you have stored in SparkPost.
 
 ## How to use this
 
